@@ -35,7 +35,6 @@ public class Program {
 		for(int i = 0; i < vet.length; i++) {
 			System.out.printf("%.1f%n",vet[i]);
 		}
-		
 		sc.close();
 	}
 
